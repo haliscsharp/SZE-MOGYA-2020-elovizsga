@@ -34,5 +34,3 @@ minimize BuildingLength: currentLongest;
 solve;
 
 printf "%f\n",BuildingLength;
-
-end;
